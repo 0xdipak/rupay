@@ -1,4 +1,3 @@
-
 import RuLetter from "@/components/RuLetter";
 import Header from "@/sections/Header";
 
