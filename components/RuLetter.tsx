@@ -2,8 +2,6 @@
 
 
 const RuLetter = () => {
- 
-
   return (
     <>
       <div className="w-full h-[500px] flex items-center justify-center perspective-1000 cursor-move">
