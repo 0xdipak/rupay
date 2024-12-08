@@ -33,11 +33,14 @@ const Header = () => {
               </Link>
             </nav>
           </div>
-          <div className="flex gap-4 hover:bg-slate-800 items-center border py-4 px-4 rounded-xl">
-            <Link href="/" className="" target="_blank">
-              Launch app
-            </Link>
-          </div>
+
+          <Link
+            href="/"
+            className="flex gap-4 items-center hover:border-[#DC143C] hover:text-[#DC143C] border py-4 px-4 rounded-xl"
+            target="_blank"
+          >
+            Launch app
+          </Link>
         </div>
       </div>
     </header>
